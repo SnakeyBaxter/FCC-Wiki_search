@@ -1,0 +1,50 @@
+form{
+	margin-top: 60px;
+	margin-bottom: 30px;
+}
+
+button{
+	margin-bottom: 30px;
+}
+
+h1{
+	text-align: center;
+}
+
+h4{
+	margin-top: 30px;
+}
+
+p{
+	margin-top: 0;
+	background-color: #ddd;
+	padding: 10px;
+}
+
+#random{
+	margin-left: 10px;
+}
+
+#main{
+	width: 600px;
+	margin: 0 auto 0 auto;
+	text-align: center;
+}
+
+#search{
+	border: 1px solid #777; 
+    border-radius: 30px; 
+    outline:0; 
+    height:25px; 
+    width: 275px; 
+    padding-left:10px; 
+    padding-right:10px; 
+ } 
+
+#results{
+	display: none; /* hide results until populated */
+	margin-top: 10px;
+	padding: 10px;
+	text-align: left;
+	border: 1px solid #ddd;
+}
